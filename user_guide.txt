@@ -1,0 +1,15 @@
+This is a very simple app.You can use it very eassily.
+
+How to use it:
+
+1.Open your terminal(if you are in Mac or Linux).If you are in Windows mechine,open your powershell(search for Power Shell in windows 10) or download any terminal software.Git terminal or Terminator is recommended.
+
+2.Download and install python3.x(above 3.6).
+
+3.In terminal type python3 toastmaster.py
+
+4.Make sure you are in the same folder where toastmaster.py & database.csv files are located.
+
+It should work perfectly.If you encounter any kind of error,please contact with me at sonet.ad101@gmail.com
+
+
