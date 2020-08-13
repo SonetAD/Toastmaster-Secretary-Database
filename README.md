@@ -1,4 +1,4 @@
-Hi there,this is a database project.I've created it to keep track of my club(Dhaka Toastmaster Club) database.
+Hi there,this is a database management software.I've created it to keep track of my club(Dhaka Toastmaster Club) database.
 As I am a secretary of my club,my job is to keep track all of our club meeting information.Doing this manually was a hidious job for me.Thats why I decided to make this little utility to help me.
 
 Features of this app:
